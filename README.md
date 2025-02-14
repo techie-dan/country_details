@@ -1,16 +1,35 @@
-# country_details
+# 🎓 Country Details App
 
-A new Flutter project.
+It is a mobile application that lists every country in the world and shows information about the past and current details about each country like population, flag, capital and others.
 
-## Getting Started
+## Test & Live Demo
+For the app test [Click here](https://appetize.io/embed/b_lcwxj4gs6c3ry4sgc4ogjbqrhu) 
 
-This project is a starting point for a Flutter application.
+To check live demo [Click here](https://appetize.io/app/b_lcwxj4gs6c3ry4sgc4ogjbqrhu) 
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+#### 1. Clone the repo
+```
+git clone https://github.com/techie-dan/country_details.git
+cd country_details
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### 2. Install dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run the following command in the project root directory to install the necessary dependencies
+
+```bash
+flutter pub get
+```
+
+#### 3. Run the app
+
+Use the command below to run the app on an emulator or connected device.
+
+```bash
+flutter run
+```
+## Contribution
+
+Contributions to country details are always welcome! If you have any improvements or features you'd like to add, fork the repository and submit a pull request.
+
